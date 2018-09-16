@@ -22,3 +22,7 @@
     padding: 3em !important;
   }
 }
+
+textarea.form-control {
+  height: 100% !important;
+}
